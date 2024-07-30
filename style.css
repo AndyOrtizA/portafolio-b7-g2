@@ -7,11 +7,16 @@
 */
 }
 
-#proyecto-1 {
-    background-image: url('Google.png');
+.proyecto {
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
+}
+#proyecto-1 {
+    background-image: url('google.png');
+}
+#proyecto-2 {
+    background-image: url('google.png');
 }
 
 .text-shadow-1 {
