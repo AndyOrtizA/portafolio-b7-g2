@@ -1,8 +1,19 @@
-#presentacion{
+#presentacion {
     height: 90vh;
-/*
+    /*
     display: flex;
     justify-content: start;
     align-items: center;
 */
+}
+
+#proyecto-1 {
+    background-image: url('Google.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.text-shadow-1 {
+    text-shadow: -3px 1px 3px #000;
 }
