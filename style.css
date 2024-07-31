@@ -1,5 +1,9 @@
 #presentacion {
     height: 90vh;
+    background-image: url(descarga.jfif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
     /*
     display: flex;
     justify-content: start;
